@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BlueNoon14
 - 👀 I’m interested in Software Architecture
-- 🌱 I’m currently learning Symfony
 - 💞️ I’m looking to collaborate on clean code projects
 - 📫 How to reach me bluenoon.se@gmail.com
 
